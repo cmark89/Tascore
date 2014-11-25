@@ -1,8 +1,10 @@
 #!/usr/bin/python
 
-# Tascore - v0.1
+# Tascore - v0.2
 # Note: This program requires that xdotool is installed; if it is not
 # then this will be a big disaster.
+# This version Tascore saves a log of the session to "tascore2.log",
+# allowing the user to archive the session or reprimand lazy underlings
 
 import sys
 import subprocess
